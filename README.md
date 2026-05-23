@@ -11,6 +11,9 @@
   <a href="https://github.com/thuangg246">
     <img src="https://img.shields.io/badge/GitHub-thuangg246-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://thuan-ngoc-thuan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-thuan--ngoc--thuan-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/thuangg0123/">
     <img src="https://img.shields.io/badge/LinkedIn-thuangg0123-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -24,6 +27,7 @@
 
 ## 👨‍💻 About Me
 
+- 🌐 **Portfolio:** [thuan-ngoc-thuan.vercel.app](https://thuan-ngoc-thuan.vercel.app/)
 - 🚀 **Fullstack Developer** with **3+ years** of Frontend experience specializing in **React.js** and **Next.js**
 - ⚙️ **1+ year** of Backend experience with **Node.js/NestJS**, REST APIs, MySQL & **Payload CMS**
 - 🏢 **2 years** on product-based projects & **1+ year** in outsourcing — including direct collaboration with **Korean clients**
@@ -231,6 +235,9 @@
   </a>
   <a href="https://github.com/thuangg246">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://thuan-ngoc-thuan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/thuangg0123/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
